@@ -10,10 +10,9 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      The name is Josh, and design is the game. I am kind of a big nerd and a
+      huge Lord of the Rings fan. When I am not doing something involving
+      design, you can find me playing guitar and dreaming of starting a band.
     actions:
       - label: Contact Me
         url: /contact
