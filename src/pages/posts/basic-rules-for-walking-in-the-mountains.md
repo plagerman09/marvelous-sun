@@ -3,7 +3,7 @@ title: LOTR Book Cover
 excerpt: Like I said earlier... I'm a pretty big nerd!
 date: '2019-10-29'
 thumb_img_path: images/PlagermanJ_BookCoverFD.png
-content_img_path: images/6.jpg
+content_img_path: images/square-cabbage.png
 template: post
 ---
 
