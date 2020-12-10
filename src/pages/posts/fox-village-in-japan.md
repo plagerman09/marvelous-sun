@@ -7,7 +7,7 @@ excerpt: >-
   of my favorite bands!
 date: '2019-11-22'
 thumb_img_path: images/Full_Albums.png
-content_img_path: images/5.jpg
+content_img_path: images/spectacular-moon.png
 template: post
 ---
 
