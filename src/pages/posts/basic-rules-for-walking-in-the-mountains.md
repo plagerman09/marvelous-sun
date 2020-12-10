@@ -1,7 +1,7 @@
 ---
 title: LOTR Book Cover
 excerpt: Like I said earlier... I'm a pretty big nerd!
-date: '2018-12-09'
+date: '2019-10-09'
 thumb_img_path: images/PlagermanJ_BookCoverFD.png
 content_img_path: images/6.jpg
 template: post
