@@ -1,11 +1,10 @@
 ---
-title: Fragments of Iceland
+title: 'LOTR: Dungeons and Dragons'
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
-date: '2019-03-27'
-thumb_img_path: images/7.jpg
+  I mixed together two of my favorite things: the most epic quest there ever was
+  and a chose your own adventure game! What could go wrong?
+date: '2020-11-06'
+thumb_img_path: images/Project-Brief-Final_Plagerman_Joshua.png
 content_img_path: images/7.jpg
 template: post
 ---

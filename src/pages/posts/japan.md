@@ -1,12 +1,10 @@
 ---
-title: Minimalist Travel - A Weekend in Japan
+title: Get Out the Vote
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
-date: '2019-03-24'
-thumb_img_path: images/2.jpg
+  A fun and unique poster I made to inspire more people to Get Out the Vote for
+  the 2020 Presidential Election!
+date: '2020-06-22'
+thumb_img_path: images/Voting Poster.png
 content_img_path: images/2.jpg
 template: post
 ---
