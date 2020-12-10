@@ -8,7 +8,7 @@ excerpt: >-
   of these together, I challenged myself to create an album cover a day of some
   of my favorite bands!
 date: '2019-11-22'
-thumb_img_path: images/5.jpg
+thumb_img_path: images/Full_Albums.png
 content_img_path: images/5.jpg
 template: post
 ---
