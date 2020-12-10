@@ -4,7 +4,7 @@ excerpt: >-
   A fun and unique poster I made to inspire more people to Get Out the Vote for
   the 2020 Presidential Election!
 date: '2020-06-22'
-thumb_img_path: images/2.jpg
+thumb_img_path: images/Voting Poster.png
 content_img_path: images/2.jpg
 template: post
 ---
