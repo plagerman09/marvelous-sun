@@ -1,8 +1,6 @@
 ---
 title: Spotify Album Recreations
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: ''
 excerpt: >-
   Music is a gigantic part of my life, as well as design! In order to mix both
   of these together, I challenged myself to create an album cover a day of some
