@@ -5,7 +5,7 @@ excerpt: >-
   After playing a lot of Xbox throught my life, I finally got fed up with
   certain parts of the home screen and how poorly design it was at time.
 date: '2020-03-06'
-thumb_img_path: images/4.jpg
+thumb_img_path: images/2020-12-07 (2).png
 content_img_path: images/4.jpg
 template: post
 ---
