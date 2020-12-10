@@ -4,7 +4,7 @@ excerpt: >-
   I mixed together two of my favorite things: the most epic quest there ever was
   and a chose your own adventure game! What could go wrong?
 date: '2020-11-06'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/Project-Brief-Final_Plagerman_Joshua.png
 content_img_path: images/7.jpg
 template: post
 ---
