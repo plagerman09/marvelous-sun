@@ -3,7 +3,7 @@ title: Get Out the Vote
 excerpt: >-
   A fun and unique poster I made to inspire more people to Get Out the Vote for
   the 2020 Presidential Election!
-date: '2019-02-24'
+date: '2019-06-24'
 thumb_img_path: images/2.jpg
 content_img_path: images/2.jpg
 template: post
