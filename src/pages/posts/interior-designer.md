@@ -7,7 +7,7 @@ excerpt: >-
   After reading about the ups and downs of guitar amps, I took it upon myself to
   create the perfect amp.
 date: '2017-03-26'
-thumb_img_path: images/1.jpg
+thumb_img_path: images/Hi-Fi Mockup.png
 template: post
 ---
 
