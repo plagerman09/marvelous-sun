@@ -1,5 +1,5 @@
 ---
-title: Fox Village In JapanSpotify Album Recreations
+title: Spotify Album Recreations
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
