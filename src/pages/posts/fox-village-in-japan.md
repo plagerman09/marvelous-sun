@@ -10,17 +10,6 @@ thumb_img_path: images/Full_Albums.png
 content_img_path: images/spectacular-moon.png
 template: post
 ---
+First Row (Left to Right): Snap Out of It by The Arctic Monkeys, Aliens Exist by Blink-182, Guru by Coast Modern, Hey Hey What Can I Do by Led Zeppelin, Hey Cowgirl by Mac DeMarco, Comfortably Numb by Pink Floyd, and You Only Live Once by The Strokes.
 
-Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
-
-**Fox Village** in hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
->The fox never found a better messenger than himself.
-
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege
-
->The fox changes his fur but not his habits.
-
-Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege.
-
-In hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Second Row: Weight of Love by The Black Keys, Threat of Joy by The Strokes, Sir Psycho Sexy by The Red Hot Chili Peppers, Wish You Where Here by Pink Floyd, Garden by Pearl Jam, Sirens by Pearl Jam, and Watching Him Fade Away by Mac Demarco.
