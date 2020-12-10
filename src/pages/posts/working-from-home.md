@@ -1,9 +1,6 @@
 ---
 title: National Guitar Day Google Doodle
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+excerpt: An animated SVG I made for Google on National Guitar Day.
 date: '2016-08-22'
 thumb_img_path: images/Google Doodle.png
 content_img_path: images/9.jpg
