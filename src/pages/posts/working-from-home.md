@@ -1,7 +1,7 @@
 ---
 title: National Guitar Day Google Doodle
 excerpt: An animated SVG I made for Google on National Guitar Day.
-date: '2016-02-22'
+date: '2019-02-11'
 thumb_img_path: images/Google Doodle.png
 content_img_path: images/9.jpg
 template: post
