@@ -1,8 +1,6 @@
 ---
 title: The "Perfect" Amp
-subtitle: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”.
+subtitle: ''
 excerpt: >-
   After reading about the ups and downs of guitar amps, I took it upon myself to
   create the perfect amp.
