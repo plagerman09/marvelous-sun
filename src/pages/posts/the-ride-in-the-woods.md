@@ -2,8 +2,8 @@
 title: Women Helping Women Fund
 subtitle: A cautionary tale about riding
 excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  This was a poster I made following the guidelines the WHWF Spokane had set up
+  for their online charity event!
 date: '2018-01-23'
 thumb_img_path: images/3.jpg
 content_img_path: images/3.jpg
