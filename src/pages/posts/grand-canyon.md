@@ -5,7 +5,7 @@ excerpt: >-
   fun to the eye.
 date: '2020-05-02'
 thumb_img_path: images/Sorry Board.png
-content_img_path: images/8.jpg
+content_img_path: images/melodic-rabbit.png
 template: post
 ---
 
