@@ -1,10 +1,6 @@
 ---
 title: LOTR Book Cover
-excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+excerpt: Like I said earlier... I'm a pretty big nerd!
 date: '2018-01-09'
 thumb_img_path: images/6.jpg
 content_img_path: images/6.jpg
