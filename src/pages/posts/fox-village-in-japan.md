@@ -7,7 +7,7 @@ excerpt: >-
   Music is a gigantic part of my life, as well as design! In order to mix both
   of these together, I challenged myself to create an album cover a day of some
   of my favorite bands!
-date: '2019-11-11'
+date: '2019-11-22'
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
 template: post
