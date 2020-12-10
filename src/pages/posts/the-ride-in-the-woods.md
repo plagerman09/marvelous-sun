@@ -5,7 +5,7 @@ excerpt: >-
   This was a poster I made following the guidelines the WHWF Spokane had set up
   for their online charity event!
 date: '2020-05-01'
-thumb_img_path: images/3.jpg
+thumb_img_path: images/PlagermanJoshua_WHWF-PSA.png
 content_img_path: images/3.jpg
 template: post
 ---
