@@ -1,6 +1,8 @@
 ---
 title: Sorry Sorry!
-excerpt: A redesign of the Sorry! board game to make it more intriguing to the eye
+excerpt: >-
+  A redesign of the Sorry! board game to make it more intriguing, colorful and
+  fun to the eye
 date: '2019-03-10'
 thumb_img_path: images/8.jpg
 content_img_path: images/8.jpg
