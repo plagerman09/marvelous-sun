@@ -1,6 +1,6 @@
 ---
 title: Xbox Home Screen Redesign
-subtitle: A intresting tale about Surfing
+subtitle: ''
 excerpt: >-
   After playing a lot of Xbox throught my life, I finally got fed up with
   certain parts of the home screen and how poorly design it was at time.
