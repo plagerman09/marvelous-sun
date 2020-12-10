@@ -3,7 +3,7 @@ title: 'LOTR: Dungeons and Dragons'
 excerpt: >-
   I mixed together two of my favorite things: the most epic quest there ever was
   and a chose your own adventure game! What could go wrong?
-date: '2019-03-27'
+date: '2019-04-27'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 template: post
