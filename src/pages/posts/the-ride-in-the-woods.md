@@ -1,6 +1,6 @@
 ---
 title: Women Helping Women Fund
-subtitle: A cautionary tale about riding
+subtitle: ''
 excerpt: >-
   This was a poster I made following the guidelines the WHWF Spokane had set up
   for their online charity event!
