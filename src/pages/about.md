@@ -2,6 +2,7 @@
 title: About Me
 subtitle: ''
 template: page
+img_path: images/Me_Side_Profile.JPG
 ---
 Hi there, I’m Joshua Plagerman and I am a Senior Graphic/UX Designer at Eastern Washington University. I have always loved the problem solving aspect of the UX world and mended it together with my love for art and design.
 
