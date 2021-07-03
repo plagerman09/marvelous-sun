@@ -6,6 +6,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/Concept_Art_The_Fortress.jpg
+content_img_path: images/robust-lavender.jpg
 ---
 ## Lorem ipsum
 
