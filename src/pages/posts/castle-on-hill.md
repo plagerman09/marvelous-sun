@@ -7,9 +7,4 @@ template: post
 thumb_img_path: images/Concept_Art_The_Fortress.jpg
 content_img_path: images/robust-lavender.jpg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+For fun paintings are one of my favorite past times. Getting lost in my work and creating a piece of art keeps me sane and moving forward. This piece was inspired by a book I was reading at the time and the main character was preparing to siege a castle. This was my artistic representation of it!
