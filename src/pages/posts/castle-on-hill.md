@@ -1,10 +1,11 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
-date: '2021-07-03'
-excerpt: lorem-ipsum
+title: The Castle on the Hill
+date: '2021-05-04'
+excerpt: This was a for fun project based off of a book I was reading.
 canonical_url: lorem-ipsum
 template: post
+thumb_img_path: images/Concept_Art_The_Fortress.jpg
+content_img_path: images/robust-lavender.jpg
 ---
 ## Lorem ipsum
 
