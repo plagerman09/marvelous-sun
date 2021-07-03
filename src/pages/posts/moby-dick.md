@@ -1,7 +1,7 @@
 ---
 title: The Tail
 date: '2021-04-11'
-excerpt: lorem-ipsum
+excerpt: 'This illustration was inspired by Chapter 86: The Tail of Moby Dick.'
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/PlagermanJoshua_theTail.jpg
