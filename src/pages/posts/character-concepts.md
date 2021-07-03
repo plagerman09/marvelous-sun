@@ -5,6 +5,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/Character_Concept_Art_JP.jpg
+content_img_path: images/caring-jupiter.jpg
 ---
 ## Lorem ipsum
 
