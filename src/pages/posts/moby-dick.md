@@ -1,6 +1,5 @@
 ---
 title: The Tail
-subtitle: lorem-ipsum
 date: '2021-07-03'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
