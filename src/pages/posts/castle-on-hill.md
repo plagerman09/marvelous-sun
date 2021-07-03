@@ -1,6 +1,6 @@
 ---
 title: The Castle on the Hill
-subtitle: 'This was a for fun project based off of '
+subtitle: 'This was a for fun project based off of a '
 date: '2021-05-04'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
