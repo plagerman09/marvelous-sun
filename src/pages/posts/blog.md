@@ -1,6 +1,5 @@
 ---
 title: Map Creation
-subtitle: lorem-ipsum
 date: '2021-07-03'
 excerpt: >-
   I love world building and I was very caught up in the creative process for
