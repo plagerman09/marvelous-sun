@@ -7,6 +7,7 @@ excerpt: >-
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/interesting-stegosaurus.jpg
+content_img_path: images/smiling-velociraptor.jpg
 ---
 ## Lorem ipsum
 
