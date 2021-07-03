@@ -5,6 +5,7 @@ date: '2021-07-03'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
+thumb_img_path: images/Map_On_Table_JP_Final.jpg
 ---
 ## Lorem ipsum
 
