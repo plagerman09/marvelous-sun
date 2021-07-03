@@ -5,6 +5,7 @@ date: '2021-07-03'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
+thumb_img_path: images/Concept_Art_The_Fortress.jpg
 ---
 ## Lorem ipsum
 
