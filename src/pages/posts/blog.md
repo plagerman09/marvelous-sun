@@ -1,6 +1,6 @@
 ---
 title: Map Creation
-date: '2021-06-03'
+date: '2021-06-06'
 excerpt: >-
   I love world building and I was very caught up in the creative process for
   this one. 
