@@ -1,7 +1,9 @@
 ---
 title: Character Concepts
 date: '2021-05-16'
-excerpt: lorem-ipsum
+excerpt: >-
+  This is my character concept for my imaginary world that I have been
+  developing.
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/Character_Concept_Art_JP.jpg
