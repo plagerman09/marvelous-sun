@@ -5,9 +5,4 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+This project was inspired by Chapter 86: The Tail in the book Moby Dick. I wanted to create a unique perspective of the tail of the beast that the viewer would not normally have. The chapter describes the tail in a beautiful, yet frightful way. As if they where admiring what they feared the most.
