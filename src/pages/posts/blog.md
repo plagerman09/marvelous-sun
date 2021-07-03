@@ -2,7 +2,7 @@
 title: Map Creation
 subtitle: lorem-ipsum
 date: '2021-07-03'
-excerpt: 'I love world building and I was '
+excerpt: 'I love world building and I was very caught up in the ccreative process '
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/Map_On_Table_JP_Final.jpg
