@@ -1,5 +1,5 @@
 ---
-title: Character Concept
+title: Character Concepts
 subtitle: lorem-ipsum
 date: '2021-07-03'
 excerpt: lorem-ipsum
