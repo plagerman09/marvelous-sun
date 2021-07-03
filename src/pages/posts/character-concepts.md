@@ -1,6 +1,6 @@
 ---
 title: Character Concepts
-date: '2021-07-03'
+date: '2021-05-16'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
