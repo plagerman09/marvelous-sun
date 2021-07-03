@@ -4,6 +4,7 @@ date: '2021-05-16'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
+thumb_img_path: images/Character_Concept_Art_JP.jpg
 ---
 ## Lorem ipsum
 
