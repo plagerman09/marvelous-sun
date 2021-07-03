@@ -1,7 +1,7 @@
 ---
 title: The Castle on the Hill
 date: '2021-05-04'
-excerpt: lorem-ipsum
+excerpt: This was a for fun project based off of a book I was reading.
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/Concept_Art_The_Fortress.jpg
